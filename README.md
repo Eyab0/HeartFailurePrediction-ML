@@ -188,8 +188,8 @@ heart-failure-prediction/
 *   **LICENSE**: License information.
 
 ## Contributors
-*   **Eyab Ghifari** - 1190999
-*   **Hamza Awashra** - 1201619
+*   **Eyab Ghifari**
+*   **Hamza Awashra**
 
 **Instructor:** Dr. Yazan Abu Farha
 
